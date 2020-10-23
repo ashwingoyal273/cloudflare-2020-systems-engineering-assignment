@@ -27,14 +27,14 @@ go run . --profile <URL> <Number of requests>
 ## Screenshots
 
 1. Cloudflare worker site links
-![workersite](screenshots/Worker - links API response.png)
+![workersite](https://github.com/ashwingoyal273/cloudflare-2020-systems-engineering-assignment/blob/main/screenshots/Worker%20-%20links%20API%20response.png)
 2. Cloudflare worker site
-![workersite](screenshots/Worker - API profile.png)
+![workersite](https://github.com/ashwingoyal273/cloudflare-2020-systems-engineering-assignment/blob/main/screenshots/Worker%20-%20API%20profile.png)
 3. Cloudflare website
-![cloudflare](screenshots/Cloudflare - Profile.png)
+![cloudflare](https://github.com/ashwingoyal273/cloudflare-2020-systems-engineering-assignment/blob/main/screenshots/Cloudflare%20-%20Profile.png)
 4. Apple website
-![apple](screenshots/Apple - Profile.png)
+![apple](https://github.com/ashwingoyal273/cloudflare-2020-systems-engineering-assignment/blob/main/screenshots/Apple%20-%20Profile.png)
 5. Google.com
-![google](screenshots/Google - Profile.png)
+![google](https://github.com/ashwingoyal273/cloudflare-2020-systems-engineering-assignment/blob/main/screenshots/Google%20-%20Profile.png)
 6. Netflix
-![netlfix](screenshots/Netflix - Profile.png)
+![netlfix](https://github.com/ashwingoyal273/cloudflare-2020-systems-engineering-assignment/blob/main/screenshots/Netflix%20-%20Profile.png)
